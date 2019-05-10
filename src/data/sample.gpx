@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer http://www.gpsvisualizer.com/" 
+  xmlns="http://www.topografix.com/GPX/1/1" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="45.498888196" lon="-122.707082991">
+    <ele>318.3</ele>
+    <name>Left before council crest</name>
+  </wpt>
+  <wpt lat="45.5006" lon="-122.70306">
+    <ele>234.2</ele>
+    <name>Hemlock</name>
+  </wpt>
+  <trk>
+    <name>Marquam to Council Crest</name>
+    <trkseg>
+      <trkpt lat="45.503" lon="-122.692133">
+        <ele>90.907</ele>
+      </trkpt>
+      <trkpt lat="45.502107" lon="-122.701427">
+        <ele>206.624</ele>
+      </trkpt>
+      <trkpt lat="45.49951" lon="-122.705115">
+        <ele>273.655</ele>
+      </trkpt>
+      <trkpt lat="45.499107" lon="-122.706342">
+        <ele>306.634</ele>
+      </trkpt>
+      <trkpt lat="45.500815" lon="-122.704206">
+        <ele>226.017</ele>
+      </trkpt>
+      <trkpt lat="45.503834" lon="-122.695756">
+        <ele>126.393</ele>
+      </trkpt>
+      <trkpt lat="45.503299" lon="-122.692654">
+        <ele>99.881</ele>
+      </trkpt>
+      <trkpt lat="45.502753" lon="-122.691646">
+        <ele>85.552</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
